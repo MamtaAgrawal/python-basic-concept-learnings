@@ -1,0 +1,6 @@
+Color = input("Enter a color: ")
+plural_Nouns = input("Enter a value: ")
+Celebrities =input("Enter a cel: ")
+print("Roses are " +  Color)
+print(plural_Nouns + "are Blue")
+print("I Love" + Celebrities)
